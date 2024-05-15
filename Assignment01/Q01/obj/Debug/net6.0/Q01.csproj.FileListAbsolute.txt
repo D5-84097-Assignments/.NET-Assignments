@@ -1,0 +1,14 @@
+F:\.NET\.NET-Assignments\Assignment01\Q01\bin\Debug\net6.0\Q01.exe
+F:\.NET\.NET-Assignments\Assignment01\Q01\bin\Debug\net6.0\Q01.deps.json
+F:\.NET\.NET-Assignments\Assignment01\Q01\bin\Debug\net6.0\Q01.runtimeconfig.json
+F:\.NET\.NET-Assignments\Assignment01\Q01\bin\Debug\net6.0\Q01.dll
+F:\.NET\.NET-Assignments\Assignment01\Q01\bin\Debug\net6.0\Q01.pdb
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.AssemblyInfoInputs.cache
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.AssemblyInfo.cs
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.csproj.CoreCompileInputs.cache
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.dll
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\refint\Q01.dll
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.pdb
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\Q01.genruntimeconfig.cache
+F:\.NET\.NET-Assignments\Assignment01\Q01\obj\Debug\net6.0\ref\Q01.dll
